@@ -1,2 +1,2 @@
-# FlenixMusic
-The Official Website of FLENIX
+# Flenix
+The Official Website of FLENIX | FlenixMusic | Flenix
